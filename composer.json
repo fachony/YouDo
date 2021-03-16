@@ -1,0 +1,12 @@
+{
+    "name": "ibu/youdo",
+    "description": "youdo for intro2web course",
+    "license": "Apache2",
+    "authors": [
+        {
+            "name": "faco",
+            "email": "faris.mulaosmanovic@stu.ibu.edu.ba"
+        }
+    ],
+    "require": {}
+}
